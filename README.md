@@ -6,4 +6,4 @@
 - Доступ к API микросервиса по адресу `https://qa-internship.avito.com`
 
 ## Установка
-1. Клонируйте репозиторий avito
+1. Клонируйте репозиторий gh repo clone Terexhov/avito
